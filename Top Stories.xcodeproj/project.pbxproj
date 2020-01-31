@@ -14,6 +14,7 @@
 		804B844623E09C0200C66501 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 804B844523E09C0200C66501 /* Assets.xcassets */; };
 		804B844923E09C0200C66501 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 804B844723E09C0200C66501 /* LaunchScreen.storyboard */; };
 		804B845123E09F9A00C66501 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 804B845023E09F9900C66501 /* SwiftyJSON.swift */; };
+		804B845323E48E4700C66501 /* ArticlesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 804B845223E48E4700C66501 /* ArticlesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		804B844823E09C0200C66501 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		804B844A23E09C0200C66501 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		804B845023E09F9900C66501 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		804B845223E48E4700C66501 /* ArticlesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				804B843C23E09BFB00C66501 /* AppDelegate.swift */,
 				804B843E23E09BFB00C66501 /* SceneDelegate.swift */,
 				804B844023E09BFB00C66501 /* SourcesViewController.swift */,
+				804B845223E48E4700C66501 /* ArticlesViewController.swift */,
 				804B844223E09BFB00C66501 /* Main.storyboard */,
 				804B844523E09C0200C66501 /* Assets.xcassets */,
 				804B844723E09C0200C66501 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				804B843D23E09BFB00C66501 /* AppDelegate.swift in Sources */,
 				804B843F23E09BFB00C66501 /* SceneDelegate.swift in Sources */,
 				804B845123E09F9A00C66501 /* SwiftyJSON.swift in Sources */,
+				804B845323E48E4700C66501 /* ArticlesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
